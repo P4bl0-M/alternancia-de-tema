@@ -13,6 +13,7 @@ Este projeto demonstra como implementar um **botão de alternância de tema** en
 <img width="1910" height="426" alt="image" src="https://github.com/user-attachments/assets/eff49a3c-99a9-4830-8e4a-292bc362c8aa" />
 <img width="1901" height="408" alt="image" src="https://github.com/user-attachments/assets/41a56807-8461-4a5f-a565-6be2f5d62ddb" />
 
+Link preview: https://p4bl0-m.github.io/alternancia-de-tema/
 
 ---
 
