@@ -1,0 +1,40 @@
+/* Estilos gerais */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+  padding: 40px;
+  text-align: center;
+}
+
+/* Modo Claro */
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Modo Escuro */
+.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+/* Botão */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
